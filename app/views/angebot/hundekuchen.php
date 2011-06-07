@@ -1,2 +1,2 @@
 <h2>Angebot</h2>
-<p>Andere Seite</p>
+<p>Hundekuchen nur auf Anfrage...</p>
